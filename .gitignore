@@ -1,0 +1,41 @@
+# venv
+.venv
+venv
+
+# pip
+pip-wheels
+pip-cache   
+
+# cache
+__pycache__
+
+# dist
+dist
+
+# build
+build
+
+# eggs
+.eggs
+
+# htmlcov
+htmlcov
+
+# coverage
+.coverage
+
+# pytest
+.pytest_cache
+
+# mypy
+.mypy_cache
+
+# flake8
+.flake8
+
+# isort
+.isort
+
+# python
+.python
+
